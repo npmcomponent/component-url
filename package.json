@@ -1,0 +1,11 @@
+{
+  "name": "component-url",
+  "description": "url parser",
+  "version": "0.1.0",
+  "keywords": [
+    "url",
+    "utility",
+    "parser"
+  ],
+  "dependencies": {}
+}
